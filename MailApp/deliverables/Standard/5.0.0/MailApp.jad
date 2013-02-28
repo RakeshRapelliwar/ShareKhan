@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: MailApp
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_locationapi,net_rim_bbapi_mailv2,net_rim_bbapi_invoke,net_rim_bbapi_browser
+MIDlet-Jar-Size: 14023
+MIDlet-1: ,img/icon.png,
+RIM-COD-Creation-Time: 1361529820
+MIDlet-Jar-URL: MailApp.jar
+RIM-COD-URL: MailApp.cod
+RIM-COD-SHA1: 9f f5 a9 46 f5 35 13 77 89 29 8c 35 33 c1 7f 30 2f 63 55 71
+RIM-COD-Size: 6512
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: MailApp
+MIDlet-Vendor: BlackBerry Developer
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
