@@ -1,40 +1,27 @@
 package com.snapwork.actions;
 
-
-
-
-
-
-
-
-public class Action
-{
+public class Action {
 	private byte command;
 	private Object commandData;
 
-	public Action(byte command,Object commandData)
-	{
+	public Action(byte command, Object commandData) {
 		setCommand(command);
 		setCommandData(commandData);
 	}
 
-	public byte getCommand()
-	{
+	public byte getCommand() {
 		return command;
 	}
 
-	public void setCommand(byte command)
-	{
+	public void setCommand(byte command) {
 		this.command = command;
 	}
 
-	public Object getCommandData()
-	{
+	public Object getCommandData() {
 		return commandData;
 	}
 
-	public void setCommandData(Object commandData)
-	{
+	public void setCommandData(Object commandData) {
 		this.commandData = commandData;
 	}
 
