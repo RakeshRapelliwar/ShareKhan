@@ -1,0 +1,79 @@
+RIM-COD-SHA1-9: 87 8e d0 2c f9 18 ca 68 20 b9 3a cf 00 a5 af 2d ac fa cc 63
+RIM-COD-SHA1-8: 37 60 e3 59 2c 78 0e 40 90 34 6f 47 ff 0e 6f a3 e5 eb 31 ef
+RIM-COD-SHA1-7: 9a e0 0f 9b c7 63 7e c9 37 88 6d eb 5c 58 cf d5 48 3e da 4e
+RIM-COD-SHA1-6: 0c 27 d4 c5 09 e5 a7 43 4e 52 3e 69 c6 b7 72 bc 07 de 2e 0b
+RIM-COD-SHA1-5: b5 3f ce b1 85 95 7d f9 88 f6 5c f1 32 6a 75 5e 03 da a1 fb
+RIM-COD-SHA1-4: 8d 87 8d ce bb ef f8 39 99 14 e3 fc d5 22 6e 35 d1 52 c3 64
+RIM-COD-SHA1-3: 6c 5e d2 a4 0f c4 46 39 15 21 49 c4 c7 c9 05 af 5a 92 6e 8f
+RIM-COD-SHA1-2: bb f6 46 36 bd 7e dc 57 d7 c5 f4 21 d9 77 70 70 f7 6c 30 a0
+RIM-COD-SHA1-1: 22 6b 43 f1 c8 bf 6e fa ce b3 68 4c d5 9a 19 e6 fd 7a de f1
+RIM-COD-Size-21: 63828
+RIM-COD-Size-20: 79856
+RIM-COD-URL-19: ShareKhan-19.cod
+RIM-COD-URL-18: ShareKhan-18.cod
+RIM-COD-URL-17: ShareKhan-17.cod
+RIM-COD-URL-16: ShareKhan-16.cod
+RIM-COD-URL-15: ShareKhan-15.cod
+RIM-COD-URL-14: ShareKhan-14.cod
+RIM-COD-URL-13: ShareKhan-13.cod
+RIM-COD-URL-12: ShareKhan-12.cod
+RIM-COD-Size: 71336
+RIM-COD-URL-11: ShareKhan-11.cod
+RIM-COD-URL-10: ShareKhan-10.cod
+MIDlet-Vendor: BlackBerry Developer
+Manifest-Version: 1.0
+RIM-MIDlet-Flags-1: 1
+RIM-COD-Size-19: 51016
+RIM-COD-Size-18: 46916
+RIM-COD-Size-17: 54900
+RIM-COD-Size-16: 35644
+RIM-COD-Size-15: 28136
+RIM-COD-Size-14: 42428
+RIM-COD-Size-13: 42388
+RIM-COD-Size-12: 31292
+RIM-COD-Size-11: 70776
+RIM-COD-Size-10: 75912
+MIDlet-Version: 1.0.0
+MicroEdition-Profile: MIDP-2.0
+RIM-COD-SHA1-21: ac a9 a8 dc 89 94 d3 fd 15 40 36 57 fd 3a 46 9d 61 df b6 29
+RIM-COD-SHA1-20: 88 03 fc 58 17 24 85 7d ab 98 a3 d9 6d 61 86 df 64 a1 d8 d2
+RIM-COD-URL: ShareKhan.cod
+RIM-COD-Creation-Time: 1361448325
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: SK_Live1.jar
+RIM-COD-SHA1-19: 49 3a 0f 53 24 fc a6 72 4b e6 a9 41 94 bc c9 7f 02 9e 66 30
+RIM-COD-SHA1-18: 86 66 49 f6 3d 15 33 12 9d ab 79 31 25 56 49 34 8e ef e9 4f
+RIM-COD-SHA1-17: 57 58 29 be 8e dc 4e 10 41 54 1b 14 b3 2b ea 96 8a 87 8d 8d
+RIM-COD-SHA1-16: 26 74 22 e9 9b c3 50 33 4a b2 cd 45 6f 74 b2 f4 25 f4 eb c3
+RIM-COD-SHA1-15: 47 44 32 55 22 4e ae 37 ed 58 b3 77 9a 33 9f bd 3f 1c 42 d8
+RIM-COD-SHA1-14: 53 e0 f2 4b 03 cb 6c 0c 71 ce 23 7e 70 67 00 40 79 af 78 fe
+RIM-COD-SHA1-13: ea 2d 80 d7 e8 8e 22 1a f6 dc 8a aa ae 77 f9 a9 86 fc d8 d9
+RIM-COD-SHA1-12: fa 49 55 75 60 b7 f1 1b fa ce a5 4a 3f b2 82 c6 82 4b 15 ed
+RIM-COD-Size-9: 75076
+RIM-COD-SHA1-11: f5 02 e4 f1 4f 00 50 42 ee cf 7c 57 22 aa 0b 1c 16 47 1b 88
+RIM-COD-Size-8: 68788
+RIM-COD-SHA1-10: 64 fe 6f 2c 63 9d 41 05 9b 40 2a 06 f2 5b c4 e3 5b b2 fc ba
+RIM-COD-Size-7: 67356
+RIM-COD-Size-6: 56868
+RIM-COD-Size-5: 66376
+RIM-COD-Size-4: 65856
+RIM-COD-Size-3: 64752
+RIM-COD-Size-2: 63452
+RIM-COD-Size-1: 63936
+MIDlet-1: ,icon.png,UiApp
+MIDlet-Name: SK_Live1
+RIM-COD-SHA1: f8 0c 5c 2d 0e 8b b4 38 fc 7c a8 b5 36 ef ba 2c 0d 21 91 fe
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os,net_rim_bb_browser_field2_api,net_rim_bb_browser_field_api,net_rim_bbapi_mailv2,net_rim_networkapi,net_rim_xml,net_rim_xml_org,net_rim_bbapi_browser,net_rim_bbapi_invoke
+MIDlet-Jar-Size: 2801174
+RIM-COD-URL-9: ShareKhan-9.cod
+RIM-COD-URL-8: ShareKhan-8.cod
+RIM-COD-URL-7: ShareKhan-7.cod
+RIM-COD-URL-6: ShareKhan-6.cod
+RIM-COD-URL-5: ShareKhan-5.cod
+RIM-COD-URL-4: ShareKhan-4.cod
+RIM-COD-URL-3: ShareKhan-3.cod
+RIM-COD-URL-2: ShareKhan-2.cod
+RIM-COD-URL-1: ShareKhan-1.cod
+RIM-COD-Module-Name: ShareKhan
+RIM-COD-URL-21: ShareKhan-21.cod
+RIM-COD-URL-20: ShareKhan-20.cod

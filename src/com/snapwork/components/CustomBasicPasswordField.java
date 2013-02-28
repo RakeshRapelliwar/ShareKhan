@@ -1,0 +1,34 @@
+package com.snapwork.components;
+
+import net.rim.device.api.ui.Color;
+import net.rim.device.api.ui.Graphics;
+import net.rim.device.api.ui.component.BasicEditField;
+import net.rim.device.api.ui.component.PasswordEditField;
+
+import com.snapwork.util.Utils;
+
+/**
+ * 
+ * <p>This class created customPasswordField which background white and textcolor black for all versions of BlackBerry OS.
+ *
+ */
+public class CustomBasicPasswordField extends PasswordEditField
+{
+
+public CustomBasicPasswordField(String string, String string2, int i, long filterNumeric) {
+			super(string, string2, i, filterNumeric);
+		}
+
+		protected void paintBackground(Graphics graphics) {
+        	graphics.setColor(0xeeeeee);
+        	graphics.fillRect(0,0,getWidth(),getHeight());
+        	graphics.setColor(Color.BLACK);
+        }
+        
+        protected void paint(Graphics graphics) {
+                graphics.setFont(this.getFont());
+                graphics.setColor(Color.BLACK);
+                super.paint(graphics);
+        }
+        
+}
